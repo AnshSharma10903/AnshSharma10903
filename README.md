@@ -83,8 +83,8 @@ Docker · MySQL · MS SQL Server · Git · DevOps
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshSharma10903&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshSharma10903&theme=tokyo-night" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshSharma10903&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshSharma10903&theme=tokyo-night" width="48%" />
 </p>
 
 
