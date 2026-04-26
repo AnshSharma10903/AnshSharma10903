@@ -1,92 +1,33 @@
-# Hi 👋, I'm Ansh Sharma
+<h1 align="center">Hey 👋What's Up?</h1>
 
-💻 Software Enthusiast & Developer
-🎓 B.Tech CSE (2026) | Ajmer, India
-🚀 Passionate about AI, Development & Real-World Projects
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
+</div>
 
-## 🧠 About Me
+###
 
-* 🔭 Currently working on AI & full-stack projects
-* 🤖 Interested in Machine Learning & Automation
-* ⚙️ Strong focus on building practical, real-world solutions
-* 📈 Continuously improving development & problem-solving skills
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
----
-
-## 🛠 Tech Stack
-
-**Languages**
-Python · C · C++ · JavaScript
-
-**Web & Backend**
-HTML · CSS · Node.js · Flask
-
-**Technologies**
-Machine Learning · Google Gemini AI · Face Recognition
-
-**Tools & Platforms**
-Docker · MySQL · MS SQL Server · Git · DevOps
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Face Attendance System
-
-📌 Offline face recognition attendance system using webcam
-
-* Real-time face detection & recognition
-* Excel-based portable database
-* Privacy-focused (no image storage)
-  🔗 https://github.com/AnshSharma10903/face-attendance-system
-
----
-
-### 🔹 AI PDF Analyser
-
-📌 Chat with any PDF using AI (Gemini-powered)
-
-* Summarization & key insights extraction
-* Page-specific context understanding
-* Packaged as Windows .exe
-  🔗 https://github.com/AnshSharma10903/ai-pdf-analyser
-
----
-
-## 📜 Certifications
-
-* 🏆 MS SQL Server — Top 10%
-* 🏆 Docker — Top 10%
-* 📊 Cybersecurity — Top 25%
-* ⚙️ DevOps — Top 25%
-* 🗄 MySQL — Top 25%
-* 🌐 HTML/CSS — Top 25%
-
----
-
-## 💼 Experience
-
-**Python Developer Intern — YBI Foundation**
-
-* Built automation & data-handling projects
-* Worked on real-world structured solutions
-
-**AI/ML Intern — YBI Foundation**
-
-* Developed ML models (classification & regression)
-* Worked on preprocessing & model optimization
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/AnshSharma10903
-* Email: [anshsharma10903@gmail.com](mailto:anshsharma10903@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-I build things that solve real problems — not just projects 🚀
+###
