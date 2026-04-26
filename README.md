@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Ansh Sharma<br>I build to learn — turning ideas into real, working applications.# Hi 👋, I'm Ansh Sharma
+<h2 align="center">Hi 👋, I'm Ansh Sharma
 
 💻 Software Enthusiast & Developer
 🎓 B.Tech CSE (2026) | Ajmer, India
