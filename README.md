@@ -79,23 +79,12 @@ Docker · MySQL · MS SQL Server · Git · DevOps
 * Worked on preprocessing & model optimization
 
 ---
-
 ## 📊 GitHub Overview
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma10903&layout=compact&theme=tokyonight" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshSharma10903&theme=tokyo-night&hide_border=true" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma10903&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshSharma10903&theme=tokyo-night&hide_border=true" width="48%"/>
+</p>
 
 ---
 
